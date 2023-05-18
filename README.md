@@ -11,11 +11,11 @@ As one can notice, only 21 questions were generated, to validate the output.
 
 Some of the answers are pretty straightforward, while others aren't good at all, e.g.:
 
-Question 6: How to Build an Influencer Marketing Dashboard (+ 8 metrics to track)
+### <strong>When asked: How to Build an Influencer Marketing Dashboard (+ 8 metrics to track)</strong>
 
 Answer: Marketing teams can track all essential metrics and ROI of campaigns
 
-Question 7: The Top 7 Marketing Reporting Software Solutions for 2023
+### <strong>When asked: The Top 7 Marketing Reporting Software Solutions for 2023</strong>
 
 Answer: WhatagraphWhatagraph
 
